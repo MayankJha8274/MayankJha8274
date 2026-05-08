@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./Developer.gif" width="180px"/>
+<img src="./Developer.gif" width="180"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%3E+Mayank+Jha" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=%3E+Mayank+Jha" />
 
 </div>
 
