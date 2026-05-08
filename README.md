@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🧑‍💻+Mayank+Jha" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%3E+Mayank+Jha" />
 
 </div>
 
