@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=%3E+Mayank+Jha" />
+<img src="./Developer.gif" width="70" style="vertical-align: middle;"/>
 
-<br><br>
-
-<img src="./Developer.gif" width="180"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=350&lines=Mayank+Jha" style="vertical-align: middle;"/>
 
 </div>
 
