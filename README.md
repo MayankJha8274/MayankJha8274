@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/MayankJha8274/MayankJha8274/main/Developer.gif" width="180"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%3E+Mayank+Jha" />
 
