@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MayankJha8274/MayankJha8274/main/Developer.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/MayankJha8274/MayankJha8274/main/Developer.gif" width="180px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%3E+Mayank+Jha" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=%3E+Mayank+Jha" />
 
 </div>
 
